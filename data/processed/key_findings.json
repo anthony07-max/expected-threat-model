@@ -1,0 +1,269 @@
+{
+  "matches": 380,
+  "moves_valued": 645568,
+  "shots": 9908,
+  "iterations": 51,
+  "max_zone_xt": 0.2608151082404147,
+  "own_box_xt": 0.003094246226760397,
+  "top_players": [
+    {
+      "player": "Dimitri Payet",
+      "team": "West Ham United",
+      "minutes": 2699,
+      "xt_p90": 0.478,
+      "xt_pass_p90": 0.383,
+      "xt_carry_p90": 0.095
+    },
+    {
+      "player": "Mesut \u00d6zil",
+      "team": "Arsenal",
+      "minutes": 3143,
+      "xt_p90": 0.474,
+      "xt_pass_p90": 0.428,
+      "xt_carry_p90": 0.046
+    },
+    {
+      "player": "Gerard Deulofeu L\u00e1zaro",
+      "team": "Everton",
+      "minutes": 1456,
+      "xt_p90": 0.399,
+      "xt_pass_p90": 0.255,
+      "xt_carry_p90": 0.144
+    },
+    {
+      "player": "Du\u0161an Tadi\u0107",
+      "team": "Southampton",
+      "minutes": 2351,
+      "xt_p90": 0.365,
+      "xt_pass_p90": 0.282,
+      "xt_carry_p90": 0.082
+    },
+    {
+      "player": "Kevin De Bruyne",
+      "team": "Manchester City",
+      "minutes": 2096,
+      "xt_p90": 0.364,
+      "xt_pass_p90": 0.282,
+      "xt_carry_p90": 0.082
+    },
+    {
+      "player": "Santiago Cazorla Gonz\u00e1lez",
+      "team": "Arsenal",
+      "minutes": 1360,
+      "xt_p90": 0.363,
+      "xt_pass_p90": 0.293,
+      "xt_carry_p90": 0.07
+    },
+    {
+      "player": "Willian Borges da Silva",
+      "team": "Chelsea",
+      "minutes": 2859,
+      "xt_p90": 0.333,
+      "xt_pass_p90": 0.246,
+      "xt_carry_p90": 0.087
+    },
+    {
+      "player": "David Josu\u00e9 Jim\u00e9nez Silva",
+      "team": "Manchester City",
+      "minutes": 1841,
+      "xt_p90": 0.324,
+      "xt_pass_p90": 0.233,
+      "xt_carry_p90": 0.092
+    },
+    {
+      "player": "Wahbi Khazri",
+      "team": "Sunderland",
+      "minutes": 1108,
+      "xt_p90": 0.319,
+      "xt_pass_p90": 0.259,
+      "xt_carry_p90": 0.06
+    },
+    {
+      "player": "Leighton Baines",
+      "team": "Everton",
+      "minutes": 1568,
+      "xt_p90": 0.313,
+      "xt_pass_p90": 0.282,
+      "xt_carry_p90": 0.031
+    }
+  ],
+  "top_carriers": [
+    {
+      "player": "Jordon Ibe",
+      "team": "Liverpool",
+      "xt_carry_p90": 0.147
+    },
+    {
+      "player": "Gerard Deulofeu L\u00e1zaro",
+      "team": "Everton",
+      "xt_carry_p90": 0.144
+    },
+    {
+      "player": "Jefferson Antonio Montero Vite",
+      "team": "Swansea City",
+      "xt_carry_p90": 0.141
+    },
+    {
+      "player": "Anthony Martial",
+      "team": "Manchester United",
+      "xt_carry_p90": 0.132
+    },
+    {
+      "player": "Eden Hazard",
+      "team": "Chelsea",
+      "xt_carry_p90": 0.12
+    }
+  ],
+  "top_defenders": [
+    {
+      "player": "Leighton Baines",
+      "team": "Everton",
+      "xt_p90": 0.313
+    },
+    {
+      "player": "Christian Fuchs",
+      "team": "Leicester City",
+      "xt_p90": 0.269
+    },
+    {
+      "player": "Robert Brady",
+      "team": "Norwich City",
+      "xt_p90": 0.266
+    },
+    {
+      "player": "Chris Brunt",
+      "team": "West Bromwich Albion",
+      "xt_p90": 0.253
+    },
+    {
+      "player": "Aleksandar Kolarov",
+      "team": "Manchester City",
+      "xt_p90": 0.246
+    }
+  ],
+  "teams": [
+    {
+      "team": "Arsenal",
+      "xt_per_game": 1.86,
+      "xt_per_100_passes": 0.311,
+      "passes": 22709
+    },
+    {
+      "team": "Manchester City",
+      "xt_per_game": 1.623,
+      "xt_per_100_passes": 0.276,
+      "passes": 22340
+    },
+    {
+      "team": "Liverpool",
+      "xt_per_game": 1.536,
+      "xt_per_100_passes": 0.272,
+      "passes": 21464
+    },
+    {
+      "team": "Chelsea",
+      "xt_per_game": 1.535,
+      "xt_per_100_passes": 0.274,
+      "passes": 21275
+    },
+    {
+      "team": "Southampton",
+      "xt_per_game": 1.479,
+      "xt_per_100_passes": 0.312,
+      "passes": 17995
+    },
+    {
+      "team": "Everton",
+      "xt_per_game": 1.441,
+      "xt_per_100_passes": 0.276,
+      "passes": 19868
+    },
+    {
+      "team": "Leicester City",
+      "xt_per_game": 1.427,
+      "xt_per_100_passes": 0.359,
+      "passes": 15093
+    },
+    {
+      "team": "Tottenham Hotspur",
+      "xt_per_game": 1.417,
+      "xt_per_100_passes": 0.261,
+      "passes": 20624
+    },
+    {
+      "team": "West Ham United",
+      "xt_per_game": 1.366,
+      "xt_per_100_passes": 0.309,
+      "passes": 16773
+    },
+    {
+      "team": "Manchester United",
+      "xt_per_game": 1.329,
+      "xt_per_100_passes": 0.231,
+      "passes": 21890
+    },
+    {
+      "team": "AFC Bournemouth",
+      "xt_per_game": 1.289,
+      "xt_per_100_passes": 0.252,
+      "passes": 19406
+    },
+    {
+      "team": "Crystal Palace",
+      "xt_per_game": 1.284,
+      "xt_per_100_passes": 0.309,
+      "passes": 15808
+    },
+    {
+      "team": "Newcastle United",
+      "xt_per_game": 1.22,
+      "xt_per_100_passes": 0.276,
+      "passes": 16799
+    },
+    {
+      "team": "Norwich City",
+      "xt_per_game": 1.183,
+      "xt_per_100_passes": 0.27,
+      "passes": 16652
+    },
+    {
+      "team": "West Bromwich Albion",
+      "xt_per_game": 1.146,
+      "xt_per_100_passes": 0.312,
+      "passes": 13971
+    },
+    {
+      "team": "Swansea City",
+      "xt_per_game": 1.144,
+      "xt_per_100_passes": 0.217,
+      "passes": 20003
+    },
+    {
+      "team": "Aston Villa",
+      "xt_per_game": 1.134,
+      "xt_per_100_passes": 0.251,
+      "passes": 17168
+    },
+    {
+      "team": "Stoke City",
+      "xt_per_game": 1.107,
+      "xt_per_100_passes": 0.235,
+      "passes": 17878
+    },
+    {
+      "team": "Watford",
+      "xt_per_game": 1.107,
+      "xt_per_100_passes": 0.257,
+      "passes": 16362
+    },
+    {
+      "team": "Sunderland",
+      "xt_per_game": 1.094,
+      "xt_per_100_passes": 0.286,
+      "passes": 14541
+    }
+  ],
+  "corr_team_xt_goals": 0.7942656732931687,
+  "corr_team_xt_xg": 0.8324880180674372,
+  "carry_share_of_xt": 0.27570086447380726
+}
